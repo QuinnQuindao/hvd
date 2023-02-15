@@ -1,0 +1,147 @@
+/* Tag Selectors */
+body {
+    background-color: #FFC4C4;
+    font-family: 'Merriweather', serif; 
+    text-align: center;
+    margin: 0;
+    color: #41514e;
+}
+
+h1 {
+    color: #FFF5E4;
+    font-family: 'Sacramento', cursive;
+    font-size: 6.25rem;
+    line-height: 2;
+    width: 40%;
+    margin: auto;
+    padding-top: 150px;
+}
+
+h2 {
+    color: #FFF5E4;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+h3 {
+    color: #EE6983;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    color: #EE6983;
+    border-style:none; 
+    border-top:dotted;
+    border-width:10px; width: 7%;
+    margin: 100px auto 100px auto;
+}
+
+a {
+    color: #41514e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#DEF5E5;
+}
+
+/* Class Selectors */
+.top-container{
+    background-color: #EE6983;
+    position: relative;
+}
+
+.cloud1 {
+    position: absolute;
+    right: 6rem;
+    top: 8rem;
+    margin: auto;
+    height: 10vw;
+    width: 20vw;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 4rem;
+    top: 14rem;
+    margin: auto;
+    height: 10vw;
+    width: 20vw;
+}
+
+.introduction {
+    width: 25%;
+    margin: auto;
+}
+
+.contact-me {
+    margin: 100px auto 100px auto;
+}
+
+.coding {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.games {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.me {
+    padding: 50px;
+    width: 12.50rem;
+}
+
+.mountain {
+    height: 50vw;
+    width: auto;
+}
+
+.myskills {
+    margin: o;
+}
+
+
+.profile {
+    margin: 100px auto 100px auto;
+}
+
+
+.red {
+    color: #850E35;
+}
+
+.skill-row {
+    margin: 0 auto 100px auto;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+}
+
+.contact-me {
+    line-height: 2;
+    width: 25%;
+    margin-bottom: 60px;
+}
+
+.profile {
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: #EE6983;
+    color: #41514e;
+    padding: 25px 0px;
+}
+
+.copyright {
+    color: #DEF5E5;
+    font-size: 0.75rem;
+    padding: 10px 0 0 0;
+}
